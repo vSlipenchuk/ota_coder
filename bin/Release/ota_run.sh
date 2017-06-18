@@ -1,0 +1,1 @@
+./ota_coder ota= < ota_sp1.txt > ota_sp1.out
